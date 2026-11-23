@@ -1,0 +1,7 @@
+cd PentaxK1Sync
+git init
+git add .
+git commit -m "Initial Pentax K-1 Sync"
+git branch -M main
+git remote add origin https://github.com/<你的GitHub用户名>/PentaxK1Sync.git
+git push -u origin main
